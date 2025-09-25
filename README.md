@@ -14,7 +14,7 @@ CouponBoys ist eine deutsche Gutscheinplattform, die verifizierte und funktionie
 
 ## Technologie-Stack
 
-- Frontend: WordPress / Divi 
+- Frontend: WordPress / Divi / ACF
 - Backend: MariaDB mit WP Rest API
 
 ## Mitmachen
